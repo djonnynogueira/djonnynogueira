@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/djonnynogueira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djonnynogueira&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djonnynogueira&hide=issues&show_icons=true&&include_all_commits=true&count_private=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djonnynogueira&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a"/>
 </div>
 
